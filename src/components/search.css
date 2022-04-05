@@ -1,0 +1,53 @@
+body{
+    background-image: url(hBt.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: auto;
+}
+p{
+    color: sky
+}
+
+
+.comment_usr_details{
+border: 5px solid rgb(159, 218, 241);
+border-radius: 5px;
+margin-top: 20px;
+padding: 10px;
+background-color:rgb(159, 218, 241) ;
+}
+.form{
+border: 5px solid rgb(159, 218, 241);
+width: 450px;
+height:220px;
+padding-top: 20px;
+padding-left: 20px;
+margin-top: 20px;
+border-radius: 15px;
+background-color: rgb(157, 215, 238)
+
+}
+
+
+.navbar-item{
+     color: rgb(245, 166, 75);
+}
+
+
+.mt-4{
+    background-color: rgb(252, 180, 86);
+    transition: width 50px;
+    box-sizing: border-box;
+    width: 100px;
+    height: 50px;
+}
+.mt-4:hover{
+   
+background-color: rgb(185, 233, 252);
+color: black;
+
+}
+.mb-8{
+    align-items: center;
+    justify-content: center;
+}
